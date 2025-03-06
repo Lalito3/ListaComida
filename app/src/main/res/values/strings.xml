@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">ListaComida</string>\
+    <string name="desayuno">Huevo al Pesto</string>
+    <string name="hamburguer">Hamburguesa </string>
+    <string name="pizza">Pizza de Puntas</string>
+    <string name="Postre">Postre de tres leches</string>
+    <string name="pozole">Pozole de todos los colores</string>
+    <string name="Tacos">Tacos de guisado</string>
+</resources>
